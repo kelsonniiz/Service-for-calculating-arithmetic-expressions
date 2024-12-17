@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/Cool-Andrey/Calculating/pkg/calc"
+	"github.com/kelsonniiz/Service-for-calculating-arithmetic-expressions/pkg/calc"
 	"log"
 	"net/http"
 	"os"
