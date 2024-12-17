@@ -1,6 +1,6 @@
 # README.md
 
-# Arithmetic Expression Calculator API
+# Arithmetic Expression Calculator API [Yandex LMS]
 
 This project provides a simple HTTP web service that evaluates arithmetic expressions. Users can send an expression via a POST request, and the service will return the result of the evaluation or an error message.
 
